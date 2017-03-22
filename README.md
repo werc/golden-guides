@@ -28,3 +28,16 @@
 - [CSS Guidelines](https://github.com/csswizardry/CSS-Guidelines)
 - [Babel Handbook - A guided handbook on how to use Babel and how to create plugins for Babel](https://github.com/thejameskyle/babel-handbook)
 - [CSS Reference - A free visual guide to the most popular CSS properties](https://github.com/jgthms/css-reference)
+
+## Contributions
+
+- Open pull request with improvements
+- Discuss ideas in issues
+- Spread the word
+- Reach out to me on twitter [@kamranahmedse](http://twitter.com/kamranahmedse)
+
+***
+
+<p align="center"><b> Want to learn something new?</b><br>Visit <a href="http://hugobots.com">Hugobots</a> where I teach people</p>
+
+***
