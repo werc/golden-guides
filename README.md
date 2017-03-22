@@ -1,5 +1,5 @@
 # Golden Guides
-> Amazing guides collected from Github's trending page over time
+> List of trending guides on github curated over time
 
 - [Data Structures - All the things you didn't know you wanted to know about data structures](https://github.com/thejameskyle/itsy-bitsy-data-structures)
 - [Bash Handbook - For those who wanna learn Bash](https://github.com/denysdovhan/bash-handbook)
