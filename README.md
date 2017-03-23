@@ -34,7 +34,6 @@
 - Open pull request with improvements
 - Discuss ideas in issues
 - Spread the word
-- Reach out to me on twitter [@kamranahmedse](http://twitter.com/kamranahmedse)
 
 ***
 
